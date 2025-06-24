@@ -1,0 +1,14 @@
+langchain-google-genai
+google-api-python-client
+pandas
+langchain-core
+langchain-huggingface
+langchain-community
+faiss-cpu
+sentence-transformers
+python-dotenv
+fastapi
+uvicorn
+pyngrok
+nest-asyncio
+flask-cors
